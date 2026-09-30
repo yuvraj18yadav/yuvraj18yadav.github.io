@@ -16,12 +16,11 @@ A lightweight, job-portal-ready static portfolio website.
 ## Publish
 Upload `index.html`, `styles.css`, `script.js` and `favicon.svg` to any static host.
 
-## Before going live
-1. Replace/add your professional email.
-2. Add your LinkedIn profile URL.
-3. Add a public resume PDF link if desired.
-4. Update any project wording that should remain confidential.
-5. Replace the GitHub URL if you want a different portfolio repository.
+## Public links
+- Portfolio: https://yuvraj18yadav.github.io/
+- GitHub: https://github.com/yuvraj18yadav
+
+LinkedIn, email and resume links are intentionally not fabricated. They can be added once the real URLs/files are supplied.
 
 ## Suggested hosting
 Any static host/CDN works. Avoid adding unnecessary scripts, trackers or large image libraries if low-carbon performance is a priority.
